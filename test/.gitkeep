@@ -1,0 +1,5 @@
+# Test suite lives here. See issue #23 (test harness) and #24 (CI).
+# Suggested layout:
+#   test/ingest/decoder.test.ts
+#   test/db/repositories/*.test.ts
+#   test/api/routes/*.test.ts
